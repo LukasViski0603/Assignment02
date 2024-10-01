@@ -38,3 +38,5 @@ The VectorStack class provides the following operations:
 - empty: Check if the stack is empty
 - size: Get the number of elements in the stack
 - average: Calculate the average of all elements in the stack
+
+![image](https://github.com/user-attachments/assets/29769b75-79dd-49ec-8d32-224060ccc339)
